@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/usmanpk/static/css/main.34a08814.css",
-    "main.js": "/usmanpk/static/js/main.8e0fb3b3.js",
+    "main.css": "/usmanpk/static/css/main.f3438faf.css",
+    "main.js": "/usmanpk/static/js/main.4a09cb11.js",
     "static/media/reactParallax.jpg": "/usmanpk/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
     "static/media/reactWeather.jpg": "/usmanpk/static/media/reactWeather.a1988356c4f5a620716e.jpg",
     "static/media/reactSmooth.jpg": "/usmanpk/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
@@ -18,11 +18,11 @@
     "static/media/mongo.png": "/usmanpk/static/media/mongo.83b60de876d715e1db75.png",
     "static/media/javascript.png": "/usmanpk/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/usmanpk/index.html",
-    "main.34a08814.css.map": "/usmanpk/static/css/main.34a08814.css.map",
-    "main.8e0fb3b3.js.map": "/usmanpk/static/js/main.8e0fb3b3.js.map"
+    "main.f3438faf.css.map": "/usmanpk/static/css/main.f3438faf.css.map",
+    "main.4a09cb11.js.map": "/usmanpk/static/js/main.4a09cb11.js.map"
   },
   "entrypoints": [
-    "static/css/main.34a08814.css",
-    "static/js/main.8e0fb3b3.js"
+    "static/css/main.f3438faf.css",
+    "static/js/main.4a09cb11.js"
   ]
 }
